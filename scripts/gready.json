@@ -1,0 +1,8 @@
+{   "dir" : "exp/greedy",
+    "pick_edge": ["eFlow", "eRand"],
+    "pick_var": ["vMI", "vRand"],
+    "expname" : ["nltcs", "msnbc", "kdd", "plants", "baudio",
+        "jester", "bnetflix", "accidents", "tretail", "pumsb_star", 
+        "dna", "kosarek", "msweb", "book", "tmovie", 
+        "cwebkb", "cr52", "c20ng", "bbc", "ad"]
+}

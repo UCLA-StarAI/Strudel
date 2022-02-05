@@ -1,0 +1,8 @@
+{   "dir" : "exp/beam",
+    "selection" : ["valid", "train"],
+    "beam_width": [1, 2, 3, 4, 5, 10, 30, 60, 90],
+    "expname" : ["nltcs", "msnbc", "kdd", "plants", "baudio",
+        "jester", "bnetflix", "accidents", "tretail", "pumsb_star", 
+        "dna", "kosarek", "msweb", "book", "tmovie", 
+        "cwebkb", "cr52", "c20ng", "bbc", "ad"]
+}
